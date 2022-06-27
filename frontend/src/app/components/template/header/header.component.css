@@ -20,3 +20,8 @@
 .header .title-group i {
   padding-right: 25px;
 }
+
+h2 {
+  text-decoration: none;
+  color: white;
+}
