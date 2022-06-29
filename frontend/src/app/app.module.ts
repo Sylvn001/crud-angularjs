@@ -24,6 +24,10 @@ import { HomeComponent } from './views/home/home.component';
 import { ProductComponent } from './views/product/product.component';
 import { RedDirective } from './directives/red.directive';
 import { ProductCreateComponent } from './components/product/product-create/product-create.component';
+import { ProductReadComponent } from './components/product/product-read/product-read.component';
+import { MatTableModule } from '@angular/material/table';
+import { MatPaginatorModule } from '@angular/material/paginator';
+import { MatSortModule } from '@angular/material/sort';
 @NgModule({
   declarations: [
     AppComponent,
@@ -34,6 +38,7 @@ import { ProductCreateComponent } from './components/product/product-create/prod
     ProductComponent,
     RedDirective,
     ProductCreateComponent,
+    ProductReadComponent,
   ],
   imports: [
     BrowserModule,
@@ -50,6 +55,9 @@ import { ProductCreateComponent } from './components/product/product-create/prod
     FormsModule,
     MatFormFieldModule,
     MatInputModule,
+    MatTableModule,
+    MatPaginatorModule,
+    MatSortModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
