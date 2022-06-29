@@ -1,4 +1,4 @@
-import { Product } from './../../../views/product/models/product.model';
+import { Product } from '../../../views/product/product.model';
 import { Component, OnInit } from '@angular/core';
 import { ProductService } from '../product.service';
 
