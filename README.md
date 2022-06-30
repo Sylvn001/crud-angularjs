@@ -1,8 +1,8 @@
-# Template Repository Name
+# Angular.JS CRUD
 
-> Resume of application here
+> Application to create a basic app using angular.js, testing tools of development and features for technologie. 
 
-### 💻 Main language - Version
+### 💻 Angular 14.0.0
 
 <p align="center">
   <a href="#%EF%B8%8F-tecnologies">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
