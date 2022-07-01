@@ -15,7 +15,7 @@
 
 ![image](https://user-images.githubusercontent.com/50564121/163297818-11a4d919-58a0-4b2b-b65e-110d3aa55f72.png)
 
-## ⚒️ Tecnologies (example)
+## ⚒️ Tecnologies
 
 - [Express](https://expressjs.com/pt-br/)
 - [Jest](https://jestjs.io/)
