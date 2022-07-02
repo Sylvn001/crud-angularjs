@@ -17,10 +17,8 @@
 
 ## ⚒️ Tecnologies
 
-- [Express](https://expressjs.com/pt-br/)
-- [Jest](https://jestjs.io/)
-- [TypeORM](https://typeorm.io/#/)
-- [Ethereal-Email](https://ethereal.email/)
+- [Angular](https://angular.io/docs)
+- [JsonServer](https://www.npmjs.com/package/json-server)
 - [Typescript](https://www.typescriptlang.org/)
 
 ## 💻 Project
