@@ -13,11 +13,12 @@
   <a href="#atom_symbol-follow-me">Follow Me!</a>
 </p>
 
-![image](https://user-images.githubusercontent.com/50564121/163297818-11a4d919-58a0-4b2b-b65e-110d3aa55f72.png)
+![code](https://user-images.githubusercontent.com/50564121/177049602-90f8a708-824e-4cbd-b23f-2c1c96d669a3.png)
 
 ## ⚒️ Tecnologies
 
 - [Angular](https://angular.io/docs)
+- [MaterialUI](https://material.angular.io/)
 - [JsonServer](https://www.npmjs.com/package/json-server)
 - [Typescript](https://www.typescriptlang.org/)
 
