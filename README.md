@@ -29,7 +29,7 @@ This project as developed with purpose to use for all my projects template :D.
 ## 🚀 How start
 
 - Install dependencies -> go to directory front and run `npm install`
-- start web server in localhost using `yarn dev`
+- start web server in localhost using `npm start` 
 
 ## 🕸️ Test in WEB
 
