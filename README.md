@@ -28,8 +28,9 @@ This project as developed with purpose to use for all my projects template :D.
 
 ## 🚀 How start
 
-- Install dependencies -> go to directory front and run `npm install`
-- start web server in localhost using `npm start` 
+- Install dependencies -> go to directory front and backend and run `npm install`
+- open directory "backend" and in command line start server using `npm run start` - server will run in `localhost:3000`
+- open directory "front" and in command line start server using `npm run serve` - project will run in `localhost:4200`
 
 ## 🕸️ Test in WEB
 
