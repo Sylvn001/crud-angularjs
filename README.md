@@ -1,6 +1,6 @@
 # Angular.JS CRUD
 
-> Application to create a basic app using angular.js, testing tools of development and features for technologie. 
+> Application to create a basic app using angular.js, testing tools of development and features for technologies. 
 
 ### 💻 Angular 14.0.0
 
